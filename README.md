@@ -1,7 +1,7 @@
 # Mapping Earthquakes
 
 ## Overview
-This project involved using JavaScript, Leaflet, Mapbox, HTML and CSS to show USGS earthquake data on a map that displays all earthquakes from the past seven days.
+This project involved using JavaScript, Leaflet, Mapbox, HTML and CSS to show GeoJSON USGS earthquake data on a map that displays all earthquakes from the past seven days.
 The map was built using the Mapbox API and customized with different base layer map styles, overlays for the earthquake data, major earthquakes, and tectonic plates, markers for the earthquakes, and a legend for the magnitude of the earthquakes.
 
 ## Results
