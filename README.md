@@ -2,7 +2,7 @@
 
 ## Overview
 This project involved using JavaScript, Leaflet, Mapbox, HTML and CSS to show USGS earthquake data on a map that displays all earthquakes from the past seven days.
-The map was built using the Mapbox API and customized with different base layer map styles, overlays for the earthquake data, major earthquakes, and tectonic plates, and a legend for the magnitude of the earthquakes.
+The map was built using the Mapbox API and customized with different base layer map styles, overlays for the earthquake data, major earthquakes, and tectonic plates, markers for the earthquakes, and a legend for the magnitude of the earthquakes.
 
 ## Results
 The image below shows the map of earthquakes around the world in the past seven days. The layer feature on the top right has options to switch the base layer to one of three different views (Street, Satellite, or Dark) and there are three overlays for Earthquakes, Tectonic Plates, and Major Earthquakes with a magnitude over 4.5. The three overlays can be toggled for any combination or view.
